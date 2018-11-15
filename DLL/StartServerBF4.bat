@@ -1,0 +1,1 @@
+start bf4_server_Final.exe -serverInstancePath "%~dp0Instance" -RemoteAdminPort 0.0.0.0:48888 -NoConsole -blazeIP 127.0.0.1 -patchSSL
