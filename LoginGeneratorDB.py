@@ -13,7 +13,7 @@ DATABASE_FILE = 'database/bf4.db'
 battlepacks = ('''[["gold_pack",[]],["bronze_pack",[]],["bronze_pack",[]],["silver_pack",[]]]''')
 consumables = ('''[["ulte_boost_25", 1, 0], ["ulte_boost_50", 1, 0], ["ulte_boost_100", 1, 0], ["ulte_boost_200", 1, 0]]''')
 items = ('''[["gold_pack",[]],["bronze_pack",[]],["bronze_pack",[]],["silver_pack",[]]]''')
-userstats = ('''"r01_00=0.00
+userstats = ('''r01_00=0.00
 r01_01=0.00
 r08_00=0.00
 r08_01=0.00
@@ -3876,7 +3876,7 @@ ct_drSP5=0.00
 ct_drSP8=0.00
 ct_drSP4=0.00
 ct_drSP2=0.00
-"''')
+''')
 
 conn = sqlite3.connect(DATABASE_FILE)
 cursor = conn.cursor()
