@@ -35,7 +35,7 @@ the database file should be changed in the Init.py file for your preference
 
 *** Use the LoginGeneratorDB.py tool to create the user and password in the database to enter the game. ***
 
------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 
 Brazilian Portuguese:
 ----------------------
@@ -54,11 +54,10 @@ python -m pip install pyopenssl
 python -m pip install pysqlite3
 python -m pip service_identity
 
-
 o arquivo de banco de dados deverá ser alterado no arquivo Init.py para sua preferência
 
 *** Use a ferramente LoginGeneratorDB.py para criar usuário e senha no banco de dados para entrar no jogo. ***
 
---------------------------------------------------------------------------------------------------------------------------------
-																						--- BOLSONARO PRESIDENTE !!! ---
-																					   --------------------------------------------
+--------------------------------
+--- BOLSONARO PRESIDENTE !!! ---
+--------------------------------
