@@ -26,10 +26,8 @@ Needed python libraries for the Blaze Emulator to work
 command for installing libs.
 
 Download Python -> https://www.python.org/ftp/python/2.7.15/python-2.7.15.amd64.msi
-python -m pip install twisted
-python -m pip install pyopenssl
-python -m pip install pysqlite3
-python -m pip service_identity
+
+python -m pip install twisted pyopenssl pysqlite3 service_identity
 
 the database file should be changed in the Init.py file for your preference
 
@@ -49,10 +47,7 @@ Download Python -> https://www.python.org/ftp/python/2.7.15/python-2.7.15.amd64.
 Bibliotecas necessárias do python para o Blaze Emulador funcionar
 comando para instalação das libs.
 
-python -m pip install twisted
-python -m pip install pyopenssl
-python -m pip install pysqlite3
-python -m pip service_identity
+python -m pip install twisted pyopenssl pysqlite3 service_identity
 
 o arquivo de banco de dados deverá ser alterado no arquivo Init.py para sua preferência
 
