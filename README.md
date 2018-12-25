@@ -69,7 +69,6 @@ o arquivo de banco de dados deverá ser alterado no arquivo Init.py para sua pre
 
 *** Use a ferramente LoginGeneratorDB.py para criar usuário e senha no banco de dados para entrar no jogo. ***
 
-Portable Blaze Emulator = BlazeEmuPortable.exe  run it
 --------------------------------------------------------------------------------------------------------------------------------
 																						--- BOLSONARO PRESIDENTE !!! ---
 																					   --------------------------------------------
