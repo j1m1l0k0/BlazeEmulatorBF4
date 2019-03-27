@@ -11,7 +11,7 @@ https://www.rebasedata.com/convert-mysql-to-sqlite-online (just import the SQL i
 Needed python libraries for the Blaze Emulator to work
 command for installing libs.
 
-Download Python -> https://www.python.org/ftp/python/2.7.15/python-2.7.15.amd64.msi
+Download Python -> https://www.python.org/downloads/release/python-2716/
 
 python -m pip install twisted pyopenssl pysqlite3 service_identity
 
@@ -28,7 +28,7 @@ Portei a Versão do BlazeEmulator para Suportar SQLite V3
 O site abaixo faz a conversão do arquivo script SQL para formato SQLite3
 https://www.rebasedata.com/convert-mysql-to-sqlite-online (basta importar o SQL no site e aguardar a migração)
 
-Download Python -> https://www.python.org/ftp/python/2.7.15/python-2.7.15.amd64.msi
+Download Python -> https://www.python.org/downloads/release/python-2716/
 
 Bibliotecas necessárias do python para o Blaze Emulador funcionar
 comando para instalação das libs.
