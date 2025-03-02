@@ -38,7 +38,3 @@ python -m pip install twisted pyopenssl pysqlite3 service_identity
 o arquivo de banco de dados deverá ser alterado no arquivo Init.py para sua preferência
 
 *** Use a ferramente LoginGeneratorDB.py para criar usuário e senha no banco de dados para entrar no jogo. ***
-
---------------------------------
---- BOLSONARO PRESIDENTE !!! ---
---------------------------------
